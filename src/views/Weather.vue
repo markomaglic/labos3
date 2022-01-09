@@ -10,7 +10,6 @@
     <h2>Weather in big cities in Croatia.</h2>
     <div>
       <!-- <weather-card id=1 name="Zagreb" temp=20></weather-card> -->
-      <h1>Weather app in the making...</h1>
       <h2>Welcome, {{ user }}!</h2>
       <p>Please write your name to test two-way binding.</p>
       <input v-model="user" />
